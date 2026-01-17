@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# PyCharm
+.idea/
+
+# ML / Models
+saved_model/
+*.h5
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
